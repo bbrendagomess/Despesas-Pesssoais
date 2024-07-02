@@ -1,0 +1,19 @@
+
+table, tr, td{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+ 
+.largura{
+    background-color: rgb(27, 145, 105);
+    color: aliceblue;
+}
+ 
+#largColuna{
+    width: 150px;
+}
+ 
+body{
+    font-family: verdana;
+}
+ 
